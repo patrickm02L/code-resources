@@ -34,6 +34,9 @@ Everything that I've listed are resources I've used myself. If you have any ques
 ### Code Questions and Answers
 * [Stack Overflow](http://stackoverflow.com)
 
+### GitHub Website and Pages
+* [GitHub Pages](https://pages.github.com)
+
 ### Inspiring Code Learning Projects
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
 * [100 Websites in 100 Days Project](http://thuongvuho.com)
@@ -62,8 +65,6 @@ Everything that I've listed are resources I've used myself. If you have any ques
 ### See Code For Any Webpage
 * Google Chrome: Right-click, select 'View Page Source', or right-click on an element and select 'Inspect Element'.
 
-### Setting Up GitHub Website and Pages
-* [GitHub Pages](https://pages.github.com)
 
 ### Text Editing Apps
 * [SublimeText](http://www.sublimetext.com) 
