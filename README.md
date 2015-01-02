@@ -26,6 +26,9 @@ Though I wasn't coding, I was collecting a bunch of resources for coding, gettin
 * [Max Ogden](https://twitter.com/maxogden)
 * [Pamela Fox](https://twitter.com/pamelafox)
 
+### Code Questions and Answers
+* [Stack Overflow](http://stackoverflow.com)
+
 ### Inspiring Code Learning Projects
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
 * [100 Websites in 100 Days Project](http://thuongvuho.com)
