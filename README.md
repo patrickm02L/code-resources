@@ -11,9 +11,9 @@ Code Resources
 
 The first year of teaching myself how to code was really hard because I didn't know where to start or what to look for. Even now, I'm still trying to figure it out, but I'm much more aware of my surroundings. 
 
-Though I wasn't coding, I was collecting a bunch of resources for coding, getting familiar with the terminiology, and tweeting at folks here and there for some guidance. I've created this reference for future learners.
+Though I wasn't coding, I was collecting a bunch of resources for coding, getting familiar with the terminiology, and tweeting at folks here and there for some guidance. I've created this reference for future learners. Enjoy!
 
-This is a list in progress, and I'll keep adding resources to it as I find them. Enjoy!
+*This is a list in progress, and I'll keep adding resources to it as I find them.* 
 
 =================
 
@@ -38,6 +38,7 @@ This is a list in progress, and I'll keep adding resources to it as I find them.
 * [Javascript for Cats](http://jsforcats.com)
 
 ### Learning Videos
+* [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [GitHub YouTube Channel](https://www.youtube.com/user/GitHubGuides)
 
