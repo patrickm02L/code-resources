@@ -11,7 +11,9 @@ Code Resources
 
 The first year of teaching myself how to code was really hard because I didn't know where to start or what to look for. Even now, I'm still trying to figure it out, but I'm much more aware of my surroundings. 
 
-Though I wasn't coding, I was collecting a bunch of resources for coding, getting familiar with the terminiology, and tweeting at folks here and there for some guidance. I've created this reference for future learners. Enjoy!
+Though I wasn't coding, I was collecting a bunch of resources for coding, getting familiar with the terminiology, and tweeting at folks here and there for some guidance. I've created this reference for future learners. 
+
+Everything that I've listed are resources I've used myself. If you have any questions feel free to drop me a line: patrickm02L@gmail.com. Enjoy!
 
 *This is a list in progress, and I'll keep adding resources to it as I find them.* 
 
