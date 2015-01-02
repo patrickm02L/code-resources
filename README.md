@@ -23,8 +23,8 @@ Though I wasn't coding, I was collecting a bunch of resources for coding, gettin
 
 ### Code Folks Who Teach 
 * [Jessica Lord](https://twitter.com/jllord)
-* [Pamela Fox](https://twitter.com/pamelafox)
 * [Max Ogden](https://twitter.com/maxogden)
+* [Pamela Fox](https://twitter.com/pamelafox)
 
 ### Inspiring Code Learning Projects
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
