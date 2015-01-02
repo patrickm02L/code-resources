@@ -30,6 +30,7 @@ This is a list in progress, and I'll keep adding resources to it as I find them.
 
 ### Learning Videos
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [GitHub YouTube Channel](https://www.youtube.com/user/GitHubGuides)
 
 ### Learning Websites
 * [Code Academy](http://www.codecademy.com)
