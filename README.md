@@ -38,6 +38,10 @@ Everything that I've listed are resources I've used myself. If you have any ques
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
 * [100 Websites in 100 Days Project](http://thuongvuho.com)
 
+### Inspiring Videos
+* [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
+* [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+
 ### Learning Blogs
 * [Learn To Code With Me](http://learntocodewithme.tumblr.com)
 * [Code Stuff](http://codestufff.tumblr.com)
@@ -46,7 +50,6 @@ Everything that I've listed are resources I've used myself. If you have any ques
 * [Javascript for Cats](http://jsforcats.com)
 
 ### Learning Videos
-* [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [GitHub YouTube Channel](https://www.youtube.com/user/GitHubGuides)
 
