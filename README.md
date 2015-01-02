@@ -21,6 +21,11 @@ This is a list in progress, and I'll keep adding resources to it as I find them.
 * [Hyperpolyglot](http://hyperpolyglot.org)
 * [30 Cheatsheets & Infographics For Software Developers](http://www.hongkiat.com/blog/cheatsheet-infographic-software-developers)
 
+### Code Folks Who Teach 
+* [Jessica Lord](https://twitter.com/jllord)
+* [Pamela Fox](https://twitter.com/pamelafox)
+* [Max Ogden](https://twitter.com/maxogden)
+
 ### Inspiring Code Learning Projects
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
 * [100 Website in 100 Days Project](http://thuongvuho.com)
