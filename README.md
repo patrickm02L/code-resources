@@ -48,6 +48,9 @@ Though I wasn't coding, I was collecting a bunch of resources for coding, gettin
 * [Dash](https://dash.generalassemb.ly)
 * [Memrise](http://www.memrise.com/course/42975/html5-2)
 
+### Setting Up GitHub Website and Pages
+* [GitHub Pages](https://pages.github.com)
+
 ### Text Editing Apps
 * [SublimeText](http://www.sublimetext.com) 
 * [Atom](https://atom.io)
@@ -55,5 +58,5 @@ Though I wasn't coding, I was collecting a bunch of resources for coding, gettin
 * [JSFiddle](http://jsfiddle.net)
 * [brackets.io](http://brackets.io)
 
-
-
+### Transfer Code From Local Comuter to GitHub
+* [GitHub for Mac](https://mac.github.com)
