@@ -53,6 +53,9 @@ Everything that I've listed are resources I've used myself. If you have any ques
 * [Dash](https://dash.generalassemb.ly)
 * [Memrise](http://www.memrise.com/course/42975/html5-2)
 
+### See Code For Any Webpage
+* On Google Chrome: Right click, select 'View Page Source', or click on an element and select 'Inspect Element'.
+
 ### Setting Up GitHub Website and Pages
 * [GitHub Pages](https://pages.github.com)
 
