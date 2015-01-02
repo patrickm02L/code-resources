@@ -40,7 +40,7 @@ Everything that I've listed are resources I've used myself. If you have any ques
 
 ### Inspiring Videos
 * [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
-* [Bret Victor - Inventing on Principle](http://vimeo.com/36579366)
+* [Inventing on Principle](http://vimeo.com/36579366)
 
 ### Learning Blogs
 * [Learn To Code With Me](http://learntocodewithme.tumblr.com)
