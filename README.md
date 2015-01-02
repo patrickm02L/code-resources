@@ -18,8 +18,8 @@ Though I wasn't coding, I was collecting a bunch of resources for coding, gettin
 =================
 
 ### Cheat Sheets
-* [Hyperpolyglot](http://hyperpolyglot.org)
 * [30 Cheatsheets & Infographics For Software Developers](http://www.hongkiat.com/blog/cheatsheet-infographic-software-developers)
+* [Hyperpolyglot](http://hyperpolyglot.org)
 
 ### Code Folks Who Teach 
 * [Jessica Lord](https://twitter.com/jllord)
@@ -28,7 +28,7 @@ Though I wasn't coding, I was collecting a bunch of resources for coding, gettin
 
 ### Inspiring Code Learning Projects
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
-* [100 Website in 100 Days Project](http://thuongvuho.com)
+* [100 Websites in 100 Days Project](http://thuongvuho.com)
 
 ### Learning Blogs
 * [Learn To Code With Me](http://learntocodewithme.tumblr.com)
