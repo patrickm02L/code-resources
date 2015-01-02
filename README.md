@@ -17,6 +17,10 @@ This is a list in progress, and I'll keep adding resources to it as I find them.
 
 =================
 
+### Cheat Sheets
+* [Hyperpolyglot](http://hyperpolyglot.org)
+* [30 Cheatsheets & Infographics For Software Developers](http://www.hongkiat.com/blog/cheatsheet-infographic-software-developers)
+
 ### Inspiring Code Learning Projects
 * [180 Websites in 180 Days Project](http://jenniferdewalt.com/)
 * [100 Website in 100 Days Project](http://thuongvuho.com)
@@ -37,10 +41,6 @@ This is a list in progress, and I'll keep adding resources to it as I find them.
 * [Code Academy](http://www.codecademy.com)
 * [Dash](https://dash.generalassemb.ly)
 * [Memrise](http://www.memrise.com/course/42975/html5-2)
-
-### Programming Languages Break Down
-* [Hyperpolyglot](http://hyperpolyglot.org)
-* [30 Cheatsheets & Infographics For Software Developers](http://www.hongkiat.com/blog/cheatsheet-infographic-software-developers)
 
 ### Text Editing Apps
 * [SublimeText](http://www.sublimetext.com) 
