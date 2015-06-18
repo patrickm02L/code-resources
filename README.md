@@ -61,6 +61,7 @@ Everything that I've listed are resources I've used myself. If you have any ques
 * [Code Academy](http://www.codecademy.com)
 * [Dash](https://dash.generalassemb.ly)
 * [Memrise](http://www.memrise.com/course/42975/html5-2)
+* [w3Schools] (http://www.w3schools.com/)
 
 ### See Code For Any Webpage
 * Google Chrome: Right-click, select 'View Page Source', or right-click on an element and select 'Inspect Element'.
