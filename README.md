@@ -55,7 +55,7 @@ Everything that I've listed are resources I've used myself. If you have any ques
 ### Learning Videos
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [GitHub YouTube Channel](https://www.youtube.com/user/GitHubGuides)
-* [Quentin Watt] HTML & CSS Beginners Tutorials (https://www.youtube.com/playlist?list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv)
+* [Quentin Watt HTML & CSS Beginners Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv)
 
 ### Learning Websites
 * [Bento.io](https://www.bento.io/)
