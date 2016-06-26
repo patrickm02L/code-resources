@@ -19,8 +19,9 @@ Everything that I've listed are resources I've used myself. If you have any ques
 
 =================
 
-### Bootstrap
+### Frameworks
 * [Get Bootstrap](http://getbootstrap.com/)
+* [Pure] (http://purecss.io/)
 
 ### Cheat Sheets
 * [30 Cheatsheets & Infographics For Software Developers](http://www.hongkiat.com/blog/cheatsheet-infographic-software-developers)
@@ -56,6 +57,7 @@ Everything that I've listed are resources I've used myself. If you have any ques
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [GitHub YouTube Channel](https://www.youtube.com/user/GitHubGuides)
 * [Quentin Watt HTML & CSS Beginners Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv)
+* [Kyle Robinson Young] (https://www.youtube.com/user/kylerobinsonyoung)
 
 ### Learning Websites
 * [Bento.io](https://www.bento.io/)
@@ -63,6 +65,7 @@ Everything that I've listed are resources I've used myself. If you have any ques
 * [Dash](https://dash.generalassemb.ly)
 * [Memrise](http://www.memrise.com/course/42975/html5-2)
 * [w3Schools] (http://www.w3schools.com/)
+* [let's write code] (https://github.com/shama/letswritecode)
 
 ### See Code For Any Webpage
 * Google Chrome: Right-click, select 'View Page Source', or right-click on an element and select 'Inspect Element'.
